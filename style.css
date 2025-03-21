@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(90deg,
+            rgb(0, 0, 0) 0%,
+            rgb(73, 77, 126) 50%,
+            rgb(0, 0, 0) 100%);
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background: linear-gradient(90deg,
+            rgb(246, 246, 246) 0%,
+            rgb(93, 100, 189) 50%,
+            rgb(133, 136, 180) 100%);
+    ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
